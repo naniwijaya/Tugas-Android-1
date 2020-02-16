@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tampilkan</string>
+    <string name="move_activity">Activity berpindah ke sini</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="data">Data</string>
+    <string name="move_obj">Pindah Objek</string>
+    <string name="tv_move_obj">Objek Diterima</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="dial_num">Telpon</string>
+    <string name="text">Masukkan Nama</string>
+    <string name="choose">Kirim</string>
+    <string name="mvoe_result">Result Activity</string>
+    <string name="result">Menampilkan Nama:</string>
+</resources>
