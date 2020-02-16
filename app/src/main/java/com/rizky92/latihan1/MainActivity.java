@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.btn_move_data:
                 Intent moveData = new Intent(MainActivity.this, MoveWithDataActivity.class);
-                moveData.putExtra(MoveWithDataActivity.EXTRA_NAME, "Dani");
-                moveData.putExtra(MoveWithDataActivity.EXTRA_AGE, 5);
+                moveData.putExtra(MoveWithDataActivity.EXTRA_NAME, "Nani wijaya");
+                moveData.putExtra(MoveWithDataActivity.EXTRA_AGE, 19);
                 startActivity(moveData);
                 break;
 
